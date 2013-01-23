@@ -5,7 +5,7 @@ import com.google.gwt.sample.stockwatcher.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**
- * The server side implementation of the RPC service.
+ * The server side implementation of the RPC service. Just added this redundant comment!
  */
 @SuppressWarnings("serial")
 public class GreetingServiceImpl extends RemoteServiceServlet implements
